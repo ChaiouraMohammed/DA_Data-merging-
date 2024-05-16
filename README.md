@@ -13,7 +13,7 @@ Let's get into it , The data mergin is the the process of combining two or more 
 
   ![Illustration-MergedDatasets-hero](https://github.com/ChaiouraMohammed/DA_Data-merging-/assets/91562298/960f4aa6-f3af-4079-a54a-6604aaecf78b)
 
-## Didn't get it yet , ok kein problem ! 
+## Didn't get it yet , ok kein Problem ! 
 
 ![MergingData2](https://github.com/ChaiouraMohammed/DA_Data-merging-/assets/91562298/8231e6f1-574d-495b-8b00-ee9a89a33f66)
 
