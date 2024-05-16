@@ -2,7 +2,7 @@
 Trying to describe , analyze and visualize 3 datasets with relations between them.(CVEs datasets)
 
 ## Data merging meaning 
-Hallo Hallo noch einmal
+Hallo Hallo noch einmal !! <br>
 Let's get into it , The data mergin is the the process of combining two or more data sets into a single. It involves adding new details to existing data, appending cases, and removing any duplicate or incorrect information to ensure that the data at hand is comprehensive, complete, and accurate.
 
 ## Types of data merging 
@@ -25,4 +25,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 ## Datasets context (CVE)
-Common Vulnerabilities and Exposures or CVE is a dictionary of publicly available information about security vulnerabilities. The dictionary is maintained by the MITRE organization, supported by the U.S. Department of Homeland Security. 
+The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known information-security vulnerabilities and exposures. The National Cybersecurity FFRDC, operated by the Mitre Corporation, maintains the system, with funding from the National Cyber Security Division of the United States Department of Homeland Security.
+
+### Dataset's link : 
+```
+https://www.kaggle.com/datasets/andrewkronser/cve-common-vulnerabilities-and-exposures
+```
+## Some graphs and stuff Lol (No more details ... )
+
+![image](https://github.com/ChaiouraMohammed/DA_Data-merging-/assets/91562298/dde83a4b-117c-4aba-accb-3de7eedfb508)  
+
+
+![image](https://github.com/ChaiouraMohammed/DA_Data-merging-/assets/91562298/92af676f-57c2-44bf-84c8-531fb1af6886)
+
