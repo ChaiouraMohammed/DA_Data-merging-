@@ -5,7 +5,7 @@ Trying to describe , analyze and visualize 3 datasets with relations between the
 Hallo Hallo noch einmal
 Let's get into it , The data mergin is the the process of combining two or more data sets into a single. It involves adding new details to existing data, appending cases, and removing any duplicate or incorrect information to ensure that the data at hand is comprehensive, complete, and accurate.
 
-## Types of fata merging 
+## Types of data merging 
 - Inner Join
 - Outer Join
 - Left Join
